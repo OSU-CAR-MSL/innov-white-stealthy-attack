@@ -1,0 +1,11 @@
+host=p0173.ten.osc.edu  task=3  Wed Sep 16 02:32:02 PM EDT 2026
+========================================================================
+cps_companion | exp=['F1'] | regimes=('N1', 'N2') | N_cal=5000 T_dep=50000 n_mc=50
+========================================================================
+
+### F1 ###
+  [F1 N1] done
+  [F1 N2] done
+  -> results/F1_dither.csv  (336 rows)
+### F1 done in 141.0s
+done task=3  Wed Sep 16 02:34:34 PM EDT 2026

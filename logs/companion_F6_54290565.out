@@ -1,0 +1,101 @@
+host=p0121.ten.osc.edu  innov=R2_innovations.npz  Wed Sep 16 03:14:30 PM EDT 2026
+========================================================================
+cps_companion | exp=['F6'] | regimes=('N1', 'N2') | N_cal=5000 T_dep=50000 n_mc=50
+========================================================================
+
+### F6 ###
+  [F6] npz keys: ['T0_diff_seg0', 'T0_diff_seg1', 'T0_diff_seg2', 'T0_diff_seg3', 'T0_diff_seg4', 'T0_diff_seg5', 'T0_diff_seg6', 'T0_diff_seg7', 'T0_diff_seg8', 'T0_diff_seg9', 'T0_diff_seg10', 'T0_diff_seg11', 'T0_diff_seg12', 'T0_diff_seg13', 'T0_diff_seg14', 'T1_ar_seg0', 'T1_ar_seg1', 'T1_ar_seg2', 'T1_ar_seg3', 'T1_ar_seg4', 'T1_ar_seg5', 'T1_ar_seg6', 'T1_ar_seg7', 'T1_ar_seg8', 'T1_ar_seg9', 'T1_ar_seg10', 'T1_ar_seg11', 'T1_ar_seg12', 'T1_ar_seg13', 'T1_ar_seg14', 'T2_varx_seg0', 'T2_varx_seg1', 'T2_varx_seg2', 'T2_varx_seg3', 'T2_varx_seg4', 'T2_varx_seg5', 'T2_varx_seg6', 'T2_varx_seg7', 'T2_varx_seg8', 'T2_varx_seg9', 'T2_varx_seg10', 'T2_varx_seg11', 'T2_varx_seg12', 'T2_varx_seg13', 'T2_varx_seg14', 'T3_gru_seg0', 'T3_gru_seg1', 'T3_gru_seg2', 'T3_gru_seg3', 'T3_gru_seg4', 'T3_gru_seg5', 'T3_gru_seg6', 'T3_gru_seg7', 'T3_gru_seg8', 'T3_gru_seg9', 'T3_gru_seg10', 'T3_gru_seg11', 'T3_gru_seg12', 'T3_gru_seg13', 'T3_gru_seg14', 'p_star']
+  [F6] loaded 91 segment(s); lengths [2006, 1555, 27417, 27713, 2072, 8330, 3239, 2474, 5512, 9024] ...
+  [F6] segment 0 done
+  [F6] segment 1 done
+  [F6] segment 2 done
+  [F6] segment 3 done
+  [F6] segment 4 done
+  [F6] segment 5 done
+  [F6] segment 6 done
+  [F6] segment 7 done
+  [F6] segment 8 done
+  [F6] segment 9 done
+  [F6] segment 10 done
+  [F6] segment 11 done
+  [F6] segment 12 done
+  [F6] segment 13 done
+  [F6] segment 14 done
+  [F6] segment 15 done
+  [F6] segment 16 done
+  [F6] segment 17 done
+  [F6] segment 18 done
+  [F6] segment 19 done
+  [F6] segment 20 done
+  [F6] segment 21 done
+  [F6] segment 22 done
+  [F6] segment 23 done
+  [F6] segment 24 done
+  [F6] segment 25 done
+  [F6] segment 26 done
+  [F6] segment 27 done
+  [F6] segment 28 done
+  [F6] segment 29 done
+  [F6] segment 30 done
+  [F6] segment 31 done
+  [F6] segment 32 done
+  [F6] segment 33 done
+  [F6] segment 34 done
+  [F6] segment 35 done
+  [F6] segment 36 done
+  [F6] segment 37 done
+  [F6] segment 38 done
+  [F6] segment 39 done
+  [F6] segment 40 done
+  [F6] segment 41 done
+  [F6] segment 42 done
+  [F6] segment 43 done
+  [F6] segment 44 done
+  [F6] segment 45 done
+  [F6] segment 46 done
+  [F6] segment 47 done
+  [F6] segment 48 done
+  [F6] segment 49 done
+  [F6] segment 50 done
+  [F6] segment 51 done
+  [F6] segment 52 done
+  [F6] segment 53 done
+  [F6] segment 54 done
+  [F6] segment 55 done
+  [F6] segment 56 done
+  [F6] segment 57 done
+  [F6] segment 58 done
+  [F6] segment 59 done
+  [F6] segment 60 done
+  [F6] segment 61 done
+  [F6] segment 62 done
+  [F6] segment 63 done
+  [F6] segment 64 done
+  [F6] segment 65 done
+  [F6] segment 66 done
+  [F6] segment 67 done
+  [F6] segment 68 done
+  [F6] segment 69 done
+  [F6] segment 70 done
+  [F6] segment 71 done
+  [F6] segment 72 done
+  [F6] segment 73 done
+  [F6] segment 74 done
+  [F6] segment 75 done
+  [F6] segment 76 done
+  [F6] segment 77 done
+  [F6] segment 78 done
+  [F6] segment 79 done
+  [F6] segment 80 done
+  [F6] segment 81 done
+  [F6] segment 82 done
+  [F6] segment 83 done
+  [F6] segment 84 done
+  [F6] segment 85 done
+  [F6] segment 86 done
+  [F6] segment 87 done
+  [F6] segment 88 done
+  [F6] segment 89 done
+  -> results/F6_realdata.csv  (1080 rows)
+### F6 done in 36.4s
+done  Wed Sep 16 03:15:19 PM EDT 2026

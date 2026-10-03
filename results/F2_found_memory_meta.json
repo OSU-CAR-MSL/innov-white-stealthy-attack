@@ -1,0 +1,9 @@
+{
+  "scheds": [
+    "MEMLESS",
+    "BLOCK",
+    "AR",
+    "ENERGY",
+    "MAGDIFF"
+  ]
+}

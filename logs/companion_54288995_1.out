@@ -1,0 +1,11 @@
+host=p0186.ten.osc.edu  task=1  Wed Sep 16 02:32:02 PM EDT 2026
+========================================================================
+cps_companion | exp=['F2'] | regimes=('N1', 'N2') | N_cal=5000 T_dep=50000 n_mc=50
+========================================================================
+
+### F2 ###
+  [F2 N1] done
+  [F2 N2] done
+  -> results/F2_found_memory.csv  (3000 rows)
+### F2 done in 46.0s
+done task=1  Wed Sep 16 02:32:59 PM EDT 2026

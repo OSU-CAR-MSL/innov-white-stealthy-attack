@@ -1,0 +1,12 @@
+host=p0075.ten.osc.edu  task=4  Wed Sep 16 02:32:36 PM EDT 2026
+========================================================================
+cps_companion | exp=['F5'] | regimes=('N1', 'N2') | N_cal=5000 T_dep=50000 n_mc=50
+========================================================================
+
+### F5 ###
+  [F5] missing results/F1_dither.csv, skip
+  [F5] missing results/F2_found_memory.csv, skip
+  [F5] missing results/F4_corrected_rule.csv, skip
+  [F5] nothing to assemble
+### F5 done in 0.0s
+done task=4  Wed Sep 16 02:32:44 PM EDT 2026

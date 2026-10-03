@@ -1,0 +1,21 @@
+host=p0139.ten.osc.edu  task=0  Wed Sep 16 02:32:02 PM EDT 2026
+========================================================================
+cps_companion | exp=['F4'] | regimes=('N1', 'N2') | N_cal=5000 T_dep=50000 n_mc=50
+========================================================================
+
+### F4 ###
+  [F4 N1 G=0.02] done
+  [F4 N1 G=0.05] done
+  [F4 N1 G=0.1] done
+  [F4 N1 G=0.2] done
+  [F4 N1 G=0.3] done
+  [F4 N1 G=0.5] done
+  [F4 N2 G=0.02] done
+  [F4 N2 G=0.05] done
+  [F4 N2 G=0.1] done
+  [F4 N2 G=0.2] done
+  [F4 N2 G=0.3] done
+  [F4 N2 G=0.5] done
+  -> results/F4_corrected_rule.csv  (1488 rows)
+### F4 done in 1743.1s
+done task=0  Wed Sep 16 03:01:17 PM EDT 2026

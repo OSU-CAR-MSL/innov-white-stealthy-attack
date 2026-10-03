@@ -1,0 +1,11 @@
+host=p0173.ten.osc.edu  task=2  Wed Sep 16 02:32:02 PM EDT 2026
+========================================================================
+cps_companion | exp=['F3'] | regimes=('N1', 'N2') | N_cal=5000 T_dep=50000 n_mc=50
+========================================================================
+
+### F3 ###
+  [F3 N1] done
+  [F3 N2] done
+  -> results/F3_price_of_memory.csv  (84 rows)
+### F3 done in 459.8s
+done task=2  Wed Sep 16 02:39:52 PM EDT 2026
